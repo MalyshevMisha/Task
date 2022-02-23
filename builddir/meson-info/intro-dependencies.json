@@ -1,0 +1,1 @@
+[{"name": "gtest", "version": "unknown", "compile_args": [], "link_args": ["-lgtest", "-lgtest_main"]}, {"name": "gmock", "version": "unknown", "compile_args": ["-I/usr/src/googletest/googlemock/src", "-I/usr/src/googletest/googlemock", "-I/usr/src/googletest/googlemock/include"], "link_args": []}]

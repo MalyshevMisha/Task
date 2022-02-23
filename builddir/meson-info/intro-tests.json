@@ -1,0 +1,1 @@
+[{"cmd": ["/home/misha/work/tietoevry/Manevir/TechTask/builddir/Test/task_test"], "env": {}, "name": "Person_test", "workdir": null, "timeout": 30, "suite": ["tech_task"], "is_parallel": true, "priority": 0, "protocol": "exitcode"}]
